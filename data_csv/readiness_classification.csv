@@ -1,0 +1,49 @@
+﻿Attribute_ID,Navigation_Family,Normalized_Attribute,Readiness_Status,Best_Provenance_Level,Evidence_Basis
+ATT-01,Connections and interfaces,Accessibility,Unresolved readiness,E1,"Data-source known, stage unresolved"
+ATT-02,Design adaptability and standardization,Adaptability,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-03,Geometry and spatial definition,Area,Source-grounded Core,E1,Core: retained from v06
+ATT-04,Component and assembly definition,Assembly Sequence,Source-grounded Core,E2,Core: retained from v06
+ATT-05,Quantity and mass,Component Count,Source-grounded Core,E2,Core: retained from v06
+ATT-06,Component and assembly definition,Component Identity,Source-grounded Core,E2,Core: retained from v06
+ATT-07,Component and assembly definition,Component Relationships,Source-grounded Core,E1,Core: retained from v06
+ATT-08,Connections and interfaces,Connection Type,Source-grounded Core,E1,Core: retained from v06
+ATT-09,Disassembly and deconstruction,Deconstruction Potential,Unresolved readiness,E3,"Data-source known, stage unresolved"
+ATT-10,Geometry and spatial definition,Dimensions,Source-grounded Core,E1,Core: retained from v06
+ATT-11,Disassembly and deconstruction,Disassembly Potential,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-12,"Supply, take-back, and market conditions",Economic Value,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-13,Environmental and resource flows,Embodied Carbon,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-14,Scenario and expert inputs,Expert Judgment,Unresolved readiness,E4,Scenario-dependent
+ATT-15,Design adaptability and standardization,Flexibility,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-16,"Supply, take-back, and market conditions",Future Value,Unresolved readiness,E4,Scenario-dependent
+ATT-17,Geometry and spatial definition,Geometry,Source-grounded Core,E1,Core: retained from v06
+ATT-18,Environmental and resource flows,LCA Data,Source-grounded Core,E1,Core: direct stage evidence
+ATT-19,Geometry and spatial definition,Location,Source-grounded Core,E2,Core: retained from v06
+ATT-20,"Service, maintenance, and replacement",Maintainability,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-21,Product and provenance metadata,Manufacturer Information,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-22,Quantity and mass,Mass,Source-grounded Core,E1,Core: retained from v06
+ATT-23,Product and provenance metadata,Material Passport,Unresolved readiness,E3,"Data-source known, stage unresolved"
+ATT-24,Quantity and mass,Material Quantity,Source-grounded Core,E1,Core: retained from v06
+ATT-25,Material identity and composition,Material Toxicity,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-26,Material identity and composition,Material Type,Source-grounded Core,E1,Core: retained from v06
+ATT-27,Connections and interfaces,Mechanical Fastener,Source-grounded Core,E2,Core: retained from v06
+ATT-28,Design adaptability and standardization,Modularity,Source-grounded Core,E1,Core: retained from v06
+ATT-29,Connections and interfaces,Permanent Connection,Source-grounded Core,E2,Core: retained from v06
+ATT-30,Product and provenance metadata,Product Passport,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-31,"Reuse, recycling, and recovery",Recovery Potential,Unresolved readiness,E3,Scenario-dependent
+ATT-32,Material identity and composition,Recycled Content,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-33,"Reuse, recycling, and recovery",Recycling Potential,Unresolved readiness,E4,Scenario-dependent
+ATT-34,Material identity and composition,Renewable Content,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-35,"Service, maintenance, and replacement",Repairability,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-36,"Service, maintenance, and replacement",Replaceability,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-37,"Reuse, recycling, and recovery",Reuse Potential,Unresolved readiness,E3,Scenario-dependent
+ATT-38,Connections and interfaces,Reversible Connection,Source-grounded Core,E2,Core: retained from v06
+ATT-39,Scenario and expert inputs,Scenario Assumptions,Unresolved readiness,E4,Scenario-dependent
+ATT-40,Connections and interfaces,Separability,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-41,"Service, maintenance, and replacement",Service Life,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-42,Design adaptability and standardization,Standardization,Source-grounded Core,E2,Core: retained from v06
+ATT-43,"Supply, take-back, and market conditions",Supply-chain Information,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-44,"Supply, take-back, and market conditions",Take-back Information,Unresolved readiness,E4,Scenario-dependent
+ATT-45,Environmental and resource flows,Transport,Unresolved readiness,E4,"Data-source known, stage unresolved"
+ATT-46,Material identity and composition,Virgin Material,Unresolved readiness,E4,"Requirement known, provenance weak"
+ATT-47,Geometry and spatial definition,Volume,Source-grounded Core,E1,Core: retained from v06
+ATT-48,Environmental and resource flows,Waste,Unresolved readiness,E3,"Data-source known, stage unresolved"

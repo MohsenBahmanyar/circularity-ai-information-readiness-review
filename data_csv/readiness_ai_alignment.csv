@@ -1,0 +1,49 @@
+﻿Normalized_Attribute,Navigation_Family,Readiness_Status,Verified_AB_Target_Output,Early_Design_AI_Context,Alignment_Group
+Accessibility,Connections and interfaces,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Adaptability,Design adaptability and standardization,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Area,Geometry and spatial definition,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Assembly Sequence,Component and assembly definition,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Component Count,Quantity and mass,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Component Identity,Component and assembly definition,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Component Relationships,Component and assembly definition,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Connection Type,Connections and interfaces,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Deconstruction Potential,Disassembly and deconstruction,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Dimensions,Geometry and spatial definition,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Disassembly Potential,Disassembly and deconstruction,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Economic Value,"Supply, take-back, and market conditions",Unresolved readiness,Yes,Yes,Unresolved readiness + AI support
+Embodied Carbon,Environmental and resource flows,Unresolved readiness,Yes,Yes,Unresolved readiness + AI support
+Expert Judgment,Scenario and expert inputs,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Flexibility,Design adaptability and standardization,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Future Value,"Supply, take-back, and market conditions",Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Geometry,Geometry and spatial definition,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+LCA Data,Environmental and resource flows,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Location,Geometry and spatial definition,Source-grounded Core,No,No,Source-grounded Core + no verified A/B
+Maintainability,"Service, maintenance, and replacement",Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Manufacturer Information,Product and provenance metadata,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Mass,Quantity and mass,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Material Passport,Product and provenance metadata,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Material Quantity,Quantity and mass,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Material Toxicity,Material identity and composition,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Material Type,Material identity and composition,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Mechanical Fastener,Connections and interfaces,Source-grounded Core,Yes,No,Source-grounded Core + AI support
+Modularity,Design adaptability and standardization,Source-grounded Core,No,No,Source-grounded Core + no verified A/B
+Permanent Connection,Connections and interfaces,Source-grounded Core,No,No,Source-grounded Core + no verified A/B
+Product Passport,Product and provenance metadata,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Recovery Potential,"Reuse, recycling, and recovery",Unresolved readiness,Yes,Yes,Unresolved readiness + AI support
+Recycled Content,Material identity and composition,Unresolved readiness,Yes,Yes,Unresolved readiness + AI support
+Recycling Potential,"Reuse, recycling, and recovery",Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Renewable Content,Material identity and composition,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Repairability,"Service, maintenance, and replacement",Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Replaceability,"Service, maintenance, and replacement",Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Reuse Potential,"Reuse, recycling, and recovery",Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Reversible Connection,Connections and interfaces,Source-grounded Core,No,No,Source-grounded Core + no verified A/B
+Scenario Assumptions,Scenario and expert inputs,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Separability,Connections and interfaces,Unresolved readiness,No,No,Unresolved readiness + no verified A/B
+Service Life,"Service, maintenance, and replacement",Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Standardization,Design adaptability and standardization,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Supply-chain Information,"Supply, take-back, and market conditions",Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Take-back Information,"Supply, take-back, and market conditions",Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Transport,Environmental and resource flows,Unresolved readiness,Yes,Yes,Unresolved readiness + AI support
+Virgin Material,Material identity and composition,Unresolved readiness,Yes,No,Unresolved readiness + AI support
+Volume,Geometry and spatial definition,Source-grounded Core,Yes,Yes,Source-grounded Core + AI support
+Waste,Environmental and resource flows,Unresolved readiness,Yes,Yes,Unresolved readiness + AI support

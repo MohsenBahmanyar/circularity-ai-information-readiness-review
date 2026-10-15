@@ -1,0 +1,31 @@
+﻿Normalized_Attribute,Navigation_Family,Requirement_Relationships,Implemented,Source_Reported,Timing_Evidenced,Prospectively_Available,Best_Provenance_Level,Final_Readiness_Status,Evidence_Basis
+Accessibility,Connections and interfaces,316,11,47,1,0,E1,Unresolved readiness,"Data-source known, stage unresolved"
+Separability,Connections and interfaces,27,1,4,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Adaptability,Design adaptability and standardization,251,11,54,2,0,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Flexibility,Design adaptability and standardization,281,11,63,4,1,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Deconstruction Potential,Disassembly and deconstruction,312,10,81,1,1,E3,Unresolved readiness,"Data-source known, stage unresolved"
+Disassembly Potential,Disassembly and deconstruction,193,11,56,1,1,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Embodied Carbon,Environmental and resource flows,362,39,130,5,3,E4,Unresolved readiness,"Data-source known, stage unresolved"
+LCA Data,Environmental and resource flows,377,23,75,7,3,E1,Source-grounded Core,Core: direct stage evidence
+Transport,Environmental and resource flows,234,12,13,3,2,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Waste,Environmental and resource flows,610,46,191,8,2,E3,Unresolved readiness,"Data-source known, stage unresolved"
+Material Toxicity,Material identity and composition,153,5,24,1,0,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Recycled Content,Material identity and composition,38,1,14,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Renewable Content,Material identity and composition,53,0,2,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Virgin Material,Material identity and composition,27,3,6,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Manufacturer Information,Product and provenance metadata,165,3,16,1,0,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Material Passport,Product and provenance metadata,122,20,109,5,3,E3,Unresolved readiness,"Data-source known, stage unresolved"
+Product Passport,Product and provenance metadata,61,6,58,0,0,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Recovery Potential,"Reuse, recycling, and recovery",88,8,32,0,0,E3,Unresolved readiness,Scenario-dependent
+Recycling Potential,"Reuse, recycling, and recovery",288,19,100,9,2,E4,Unresolved readiness,Scenario-dependent
+Reuse Potential,"Reuse, recycling, and recovery",562,18,101,5,2,E3,Unresolved readiness,Scenario-dependent
+Expert Judgment,Scenario and expert inputs,250,4,20,0,0,E4,Unresolved readiness,Scenario-dependent
+Scenario Assumptions,Scenario and expert inputs,280,8,55,2,1,E4,Unresolved readiness,Scenario-dependent
+Maintainability,"Service, maintenance, and replacement",19,1,2,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Repairability,"Service, maintenance, and replacement",20,2,3,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Replaceability,"Service, maintenance, and replacement",8,0,0,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Service Life,"Service, maintenance, and replacement",273,17,50,2,1,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Economic Value,"Supply, take-back, and market conditions",557,5,23,0,0,E4,Unresolved readiness,"Requirement known, provenance weak"
+Future Value,"Supply, take-back, and market conditions",22,0,1,0,0,E4,Unresolved readiness,Scenario-dependent
+Supply-chain Information,"Supply, take-back, and market conditions",279,2,6,0,0,E4,Unresolved readiness,"Data-source known, stage unresolved"
+Take-back Information,"Supply, take-back, and market conditions",20,0,5,0,0,E4,Unresolved readiness,Scenario-dependent

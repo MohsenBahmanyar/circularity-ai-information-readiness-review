@@ -1,0 +1,24 @@
+﻿stream,measure,count
+Primary,Imported occurrences,1762
+Primary,Duplicate occurrences removed,674
+Primary,Unique records screened,1088
+Primary,Title/abstract Include,695
+Primary,Title/abstract Maybe,160
+Primary,Title/abstract Exclude,233
+Primary,Reports sought,855
+Primary,Reports not retrieved,123
+Primary,Reports assessed,732
+Primary,Reports included,731
+Primary,Circularity-information analytical view,726
+Primary,Digital-information analytical view,720
+Targeted AI,Imported occurrences,4272
+Targeted AI,Duplicate occurrences removed,404
+Targeted AI,Unique records screened,3868
+Targeted AI,Include,1296
+Targeted AI,Maybe,374
+Targeted AI,Background Review,134
+Targeted AI,Exclude,2064
+Targeted AI,Tier 1 high-priority queue,300
+Targeted AI,Tier 2 transferable queue,1370
+Targeted AI,Gap-targeted Tier 2 shortlist,78
+Targeted AI,Verified empirical papers,107

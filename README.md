@@ -50,4 +50,4 @@ Copyrighted article PDFs, publisher-supplied full abstracts, proprietary databas
 
 Package version: `v1.0-manuscript-submission`  
 Created: 2026-10-14  
-Scientific source: `Journal_Manuscript_v28_FINAL_human.docx`
+
